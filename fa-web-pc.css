@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'Fontawesome';
+  src:
+    url('fonts/Fontawesome.ttf?w4k78f') format('truetype'),
+    url('fonts/Fontawesome.woff?w4k78f') format('woff'),
+    url('fonts/Fontawesome.svg?w4k78f#Fontawesome') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="fa-"], [class*=" fa-"]{font-family: 'Fontawesome' !important;speak: never;font-style: normal;font-weight: normal;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale}
+.fa-search:before{content: "\f002"}
+.fa-user:before{content: "\f007"}
+.fa-check:before{content: "\f00c"}
+.fa-close:before{content: "\f00d"}
+.fa-remove:before{content: "\f00d"}
+.fa-times:before{content: "\f00d"}
+.fa-clock-o:before{content: "\f017"}
+.fa-chevron-down:before{content: "\f078"}
+.fa-phone:before{content: "\f095"}
+.fa-twitter:before{content: "\f099"}
+.fa-facebook:before{content: "\f09a"}
+.fa-facebook-f:before{content: "\f09a"}
+.fa-pinterest:before{content: "\f0d2"}
+.fa-caret-down:before{content: "\f0d7"}
+.fa-sort-desc:before{content: "\f0dd"}
+.fa-sort-down:before{content: "\f0dd"}
+.fa-envelope:before{content: "\f0e0"}
+.fa-linkedin:before{content: "\f0e1"}
+.fa-angle-double-right:before{content: "\f101"}
+.fa-angle-up:before{content: "\f106"}
+.fa-angle-down:before{content: "\f107"}
+.fa-circle-o:before{content: "\f10c"}
+.fa-circle:before{content: "\f111"}
+.fa-youtube-square:before{content: "\f166"}
+.fa-youtube:before{content: "\f167"}
+.fa-instagram:before{content: "\f16d"}
+.fa-circle-thin:before{content: "\f1db"}
+.fa-shopping-bag:before{content: "\f290"}
+.fa-clock:before{content: "\e94e"}
+.fa-clock2:before{content: "\e94f"}
+.fa-facebook1:before{content: "\ea90"}
+.fa-instagram1:before{content: "\ea92"}
+.fa-linkedin1:before{content: "\eac9"}
+.fa-pinterest1:before{content: "\ead1"}
+.fa-lg{font-size:1.33333em;line-height:0.75em;vertical-align:-.0667em}
+.fa-xs{font-size:.75em}
+.fa-sm{font-size:.875em}
+.fa-1x{font-size:1em}
+.fa-2x{font-size:2em}
+.fa-stack{display:inline-block;height:2em;line-height:2em;position:relative;vertical-align:middle;width:2.5em}
+.fa-stack-1x,.fa-stack-2x{left:0;position:absolute;text-align:center;width:100%}
+.fa-stack-1x{line-height:inherit}
+.fa-stack-2x{font-size:2em}
+.fa-inverse{color:#fff;}
